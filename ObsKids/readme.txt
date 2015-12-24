@@ -1,0 +1,1 @@
+Observer/observable design pattern implemented on a program in which the professor notifies his/her students about changes in a midterm schedule.
